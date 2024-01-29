@@ -1,16 +1,28 @@
-### Hi there 👋
+# Volha Patsiahevich
+###### future frontend developer
+###### :round_pushpin: Minsk, Belarus
 
-<!--
-**patciahevich/patciahevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education:
+:microscope: [BSMU 2016] (https://www.bsmu.by/)
 
-Here are some ideas to get you started:
+### Language: 
+- English A2 (B1 in progress)
+- Russian (native)
+- Belarussian (native)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+- HTML-5
+- CSS
+- JS basics
+
+### Current Courses:
+- [x] RS School JS/Frontend Stage 0
+- RS School JS/Frontend Stage 1
+
+## My projects
+1. :8ball: Games:
+   - :curly_loop: [Hangman] (https://github.com/patciahevich/hangman)
+2. :books: School projects:
+   - :coffee: [Coffee House] (https://github.com/patciahevich/coffee-house)
+   - :trollface: [CSS Memme Slider] (https://github.com/patciahevich/cssMemeSlider)
+
