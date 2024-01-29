@@ -21,7 +21,7 @@
 
 ## My projects
 * :8ball: Games:
-   - :curly_loop: [Hangman] (https://github.com/patciahevich/hangman)
+   - :curly_loop: [Hangman](https://github.com/patciahevich/hangman)
 * :books: School projects:
    - :coffee: [Coffee House](https://github.com/patciahevich/coffee-house)
    - :trollface: [CSS Memme Slider](https://github.com/patciahevich/cssMemeSlider)
