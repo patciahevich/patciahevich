@@ -1,9 +1,8 @@
-# Volha Patciahevich
-
-###### :round_pushpin: Minsk, Belarus
+# Hi!
+## I've been studying JS for 6 months, and these are some of my accomplishments. 
 
 ### Education:
-:microscope: [BSMU 2016](https://www.bsmu.by/)
+:woman_student: [BSMU 2016](https://www.bsmu.by/)
 
 ### Language: 
 - English A2 (B1 in progress)
