@@ -20,9 +20,9 @@
 - RS School JS/Frontend Stage 1
 
 ## My projects
-1. :8ball: Games:
+* :8ball: Games:
    - :curly_loop: [Hangman] (https://github.com/patciahevich/hangman)
-2. :books: School projects:
-   - :coffee: [Coffee House] (https://github.com/patciahevich/coffee-house)
-   - :trollface: [CSS Memme Slider] (https://github.com/patciahevich/cssMemeSlider)
+* :books: School projects:
+   - :coffee: [Coffee House](https://github.com/patciahevich/coffee-house)
+   - :trollface: [CSS Memme Slider](https://github.com/patciahevich/cssMemeSlider)
 
