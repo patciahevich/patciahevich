@@ -4,19 +4,8 @@
 ### Education:
 :woman_student: [BSMU 2016](https://www.bsmu.by/)
 
-### Language: 
-- English A2 (B1 in progress)
-- Russian (native)
-- Belarussian (native)
 
-### Skills:
-- HTML-5
-- CSS
-- JS basics
-
-### Current Courses:
-- [x] RS School JS/Frontend Stage 0
-- RS School JS/Frontend Stage 1
+:pushpin: [My CV](https://patciahevich.github.io/rsschool-cv/)
 
 ## My projects
 * :8ball: Games:
