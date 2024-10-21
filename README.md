@@ -1,5 +1,5 @@
 # Hi!
-## I've been studying JS for 6 months, and these are some of my accomplishments. 
+## I like JS and try to study as hard as possible
 
 ### Education:
 :woman_student: [BSMU 2016](https://www.bsmu.by/)
