@@ -19,7 +19,7 @@ I am  from Belarus 🇧🇾, but  now  I'm living in Warsaw, Poland 🇵🇱.
 
 
 ## My Projects
-
+- 🟡 [You and Me Game](https://github.com/patciahevich/you-and-me-game)
 - 🟡 [Coffee House](https://github.com/patciahevich/coffee-house)
 - 🟡 [Library](https://github.com/patciahevich/library)
 - 🟡 [Image Gallery](https://github.com/patciahevich/image-gallery)
