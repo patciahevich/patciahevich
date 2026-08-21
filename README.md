@@ -22,6 +22,19 @@ I’m currently seeking my **first professional role** in front-end development,
 - 🎓 THE ROLLING SCOPES SCHOOL (2023 - now) 
 - 🎓 Belarusian State Medical University(2010 - 2016).
 
+## Technical skills 
+- **Languages:**  JavaScript, TypeScript 
+- **Frameworks:** React, Node.js, Angular(basics)
+- **Databases:** PostgreSQL
+- **Styles:** SASS, Tailwind, BEM
+- **Tools & Platforms:** Docker, Git
+- **Concepts:** REST APIs, Responsive Design, Agile/Scrum
+
+## Languages
+- Russian (native)
+- English (B1 - B2 in progress)
+- Polish (A1)
+
 
 ## My Projects
 - 🟡 [Photographer Portfolio](https://github.com/patciahevich/portfolio)
