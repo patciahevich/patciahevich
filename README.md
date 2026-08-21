@@ -22,6 +22,12 @@ I’m currently seeking my **first professional role** in front-end development,
 - 🎓 THE ROLLING SCOPES SCHOOL (2023 - now) 
 - 🎓 Belarusian State Medical University(2010 - 2016).
 
+## Certificates
+- [THE ROLLING SCOPES SCHOOL / EPAM PL&LT 2025Q1](https://app.rs.school/certificate/53zif6l5)
+- [THE ROLLING SCOPES SCHOOL / NodeJS 2024 Q3](https://app.rs.school/certificate/7xakql66)
+- [THE ROLLING SCOPES SCHOOL / JavaScript/Front-end 2023Q4](https://app.rs.school/certificate/96efrz9x)
+- [THE ROLLING SCOPES SCHOOL / JS/FE Pre-School 2023Q2](https://app.rs.school/certificate/49dhonk1)
+
 ## Technical skills 
 - **Languages:**  JavaScript, TypeScript 
 - **Frameworks:** React, Node.js, Angular(basics)
