@@ -13,8 +13,6 @@ I’m currently seeking my **first professional role** in front-end development,
 
 - 📚 : Continuously enhancing my skills with modern libraries and frameworks.
 
-- 🌍 : Native Russian speaker, also speak English (B1-B2) and Polish (A1-A2).
-
 ## CV -  [Link to my CV](https://cv-patsiahevich.netlify.app/)
 
 ## Education
