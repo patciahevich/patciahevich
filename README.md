@@ -13,10 +13,12 @@ I’m currently seeking my **first professional role** in front-end development,
 
 - 📚 : Continuously enhancing my skills with modern libraries and frameworks.
 
-## CV -  [Link to my CV](https://cv-patsiahevich.netlify.app/)
+### CV -  [Link to my CV](https://cv-patsiahevich.netlify.app/)
+
 
 ## Education
 
+- 🎓 Codewars  ([link to the profile](https://www.codewars.com/users/rsschool_4b5581c47fe184bb))
 - 🎓 THE ROLLING SCOPES SCHOOL (2023 - now) 
 - 🎓 Belarusian State Medical University(2010 - 2016).
 
